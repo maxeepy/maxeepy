@@ -1,8 +1,7 @@
 # About me
-Im just a person with some beginner programming skills
+Im just a person with some DECENT-ish programming skills
 - My main programming language is Python
-- Learning Python, JavaScript, Ruby
-- Beginner discord bot developer, I have a bot called Python Bot: [repo](https://github.com/1randomguyspecial/pythonbot), [invite](https://dsc.gg/python-bot-n1) 
+- Discord bot developer, I have a bot called Python Bot: [repo](https://github.com/1randomguyspecial/pythonbot), [invite](https://dsc.gg/python-bot-n1) 
 - Im in:
   - Discord:
     - User: Number1#4325
