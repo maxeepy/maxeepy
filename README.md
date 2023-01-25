@@ -7,5 +7,5 @@ Im just a person with some DECENT-ish programming skills
     - User: maxy#2866
     - [Python Bot's Support Server](https://dsc.gg/python-bot-n1-server)
   - Codewars: [![codewars](https://www.codewars.com/users/1randomguyspecial/badges/small)](https://www.codewars.com/users/1randomguyspecial)
-  - [Boosty](https://boosty.to/number1)
+  - [⚡ Boosty](https://boosty.to/number1)
 - Feel free to dm/add me in discord :>
