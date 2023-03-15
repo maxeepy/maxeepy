@@ -21,4 +21,4 @@ yes you heard it right i have a discord bot
       [![api inventory](https://img.shields.io/badge/-api%2Finventory-e7641b?logo=replit&logoColor=white)](https://pb.number2d.repl.co/api/inventory)
 - options: \
     userid=discord_id (OPTIONAL) \
-    example: [![api inventory](https://img.shields.io/badge/-%2Fbalance%3Fuserid%3D439788095483936768-e7641b?logo=replit&logoColor=white)](https://pb.number2d.repl.co/api/balance/userid=439788095483936768)
+    example: [![api inventory](https://img.shields.io/badge/-%2Fbalance%3Fuserid%3D439788095483936768-e7641b?logo=replit&logoColor=white)](https://pb.number2d.repl.co/api/balance?userid=439788095483936768)
