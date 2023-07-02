@@ -11,7 +11,7 @@
 # discord bot
 yes you heard it right i have a discord bot
 - [![python bot invite](https://img.shields.io/badge/Invite%20it%20to%20your%20server-Python%20Bot-634ad8?logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=912745278187126795&permissions=1239836650583&scope=applications.commands%20bot)
-- [![python bot repo](https://img.shields.io/badge/Github%20repo-Python%20Bot-blue?logo=github&logoColor=white&labelColor=24282d)](https://github.com/maxy-dev/pythonbot)
+- [![python bot repo](https://img.shields.io/badge/Github%20repo-Python%20Bot-blue?logo=github&logoColor=white&labelColor=24282d)](https://github.com/maxy-devs/pythonbot)
 - [![discord](https://img.shields.io/discord/910131051320475648?color=5865F2&label=Support%20server&logo=discord&logoColor=white)](https://discord.gg/jRK82RNx73)
 
 ### api things for it
