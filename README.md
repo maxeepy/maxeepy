@@ -3,8 +3,8 @@
 [![Boosty](https://img.shields.io/badge/Support%20me%20on-Boosty!-orange)](https://boosty.to/number1) \
 [![DonationAlerts](https://img.shields.io/badge/Support%20me%20on-DonationAlerts!-yellow)](https://www.donationalerts.com/r/maxy1) \
 \
-[![Steam @Number1](https://img.shields.io/badge/-Number1-171a21?logo=steam&logoColor=white)](https://https://steamcommunity.com/id/kindaNumber1) \
-[![Codewars Badge](https://www.codewars.com/users/1randomguyspecial/badges/small)](https://www.codewars.com/users/1randomguyspecial) \
+[![Steam @maxy](https://img.shields.io/badge/-maxy-171a21?logo=steam&logoColor=white)](https://steamcommunity.com/id/maxy_dev) \
+[![Codewars Badge](https://www.codewars.com/users/maxy-dev/badges/small)](https://www.codewars.com/users/maxy-dev) \
 \
 [![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=white&style=for-the-badge)](https://python.org)
 
