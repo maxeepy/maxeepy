@@ -15,6 +15,7 @@ yes you heard it right i have a discord bot
 - [![discord](https://img.shields.io/discord/910131051320475648?color=5865F2&label=Support%20server&logo=discord&logoColor=white)](https://discord.gg/jRK82RNx73)
 
 ### api things for it
+- [![python bot api repo](https://img.shields.io/badge/Github%20repo-Python%20Bot%20API-blue?logo=github&logoColor=white&labelColor=24282d)](https://github.com/maxy-devs/pythonbotapi)
 - fetch economy stuff from api: [![api](https://img.shields.io/badge/-Python%20Bot%20API-e7641b?logo=replit&logoColor=white)](https://pb.number2d.repl.co/)
 - - available endpoints: \
       [![api balance](https://img.shields.io/badge/-api%2Fbalance-e7641b?logo=replit&logoColor=white)](https://pb.number2d.repl.co/api/balance) \
