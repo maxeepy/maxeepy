@@ -6,7 +6,7 @@
 [![Steam @maxy](https://img.shields.io/badge/-maxy-171a21?logo=steam&logoColor=white)](https://steamcommunity.com/id/maxy_dev) \
 [![Codewars Badge](https://www.codewars.com/users/maxy-dev/badges/small)](https://www.codewars.com/users/maxy-dev) \
 \
-[![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=white&style=for-the-badge)](https://python.org)
+[![python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org) and a little bit of [![html](https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://html.spec.whatwg.org/) [![css](https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://www.w3.org/TR/CSS/#css) 
 
 # Discord bot - 🔗 Link Embedder
 - [![discord](https://img.shields.io/discord/910131051320475648?color=5865F2&label=maxy-devs%20server&logo=discord&logoColor=white)](https://discord.gg/jRK82RNx73)
@@ -14,6 +14,10 @@
 - [![le repo](https://img.shields.io/badge/Github%20repo-Link%20Embedder-blue?logo=github&logoColor=white&labelColor=24282d)](https://github.com/maxy-devs/embedlink)
 
 ![message embed](https://cdn.discordapp.com/attachments/843562496543817781/1135553403385295011/TyvdlNieddSx.gif)
+
+## Discord bot - 🪶 UltraLite
+- [![discord](https://img.shields.io/discord/910131051320475648?color=5865F2&label=maxy-devs%20server&logo=discord&logoColor=white)](https://discord.gg/jRK82RNx73)
+- [![ul invite](https://img.shields.io/badge/Invite%20it%20to%20your%20server-UltraLite-634ad8?logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1145457595314876568&permissions=275414903888&scope=bot%20applications.commands)
 
 ### 🐍 python bot is 🛑 deprecated 🛑
 - [![python bot repo](https://img.shields.io/badge/Github%20repo-Python%20Bot-blue?logo=github&logoColor=white&labelColor=24282d)](https://github.com/maxy-devs/pythonbot)
