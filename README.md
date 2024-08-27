@@ -1,4 +1,4 @@
-# im the maxy guy
+# im maxy (and is eepy)
 [![pronouns](https://img.shields.io/badge/dynamic/json?color=blue&label=%20&query=message&url=https%3A%2F%2Fpronoundb.org%2Fshields%2F647622c1cd0313fb474fe71b.json)](https://pronoundb.org/) [![maxy.top](https://custom-icon-badges.demolab.com/badge/-maxy.top-333333?logo=globe)](https://maxy.top/) [![maxy#2866](https://dcbadge.vercel.app/api/shield/439788095483936768?style=flat&compact=true&theme=discord-inverted)](https://discord.com/users/439788095483936768) [![Active Developer](https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg)](https://discord.com/users/439788095483936768) [![Hypesquad Bravery](https://discord.com/assets/efcc751513ec434ea4275ecda4f61136.svg)](https://discord.com/users/439788095483936768) \
 [![Boosty](https://img.shields.io/badge/Support%20me%20on-Boosty!-orange)](https://boosty.to/number1) \
 [![DonationAlerts](https://img.shields.io/badge/Support%20me%20on-DonationAlerts!-yellow)](https://www.donationalerts.com/r/maxy1) \
