@@ -6,7 +6,8 @@
 [![Steam @maxy](https://img.shields.io/badge/-maxy-171a21?logo=steam&logoColor=white)](https://steamcommunity.com/id/maxy_dev) \
 [![Codewars Badge](https://www.codewars.com/users/maxeepy/badges/small)](https://www.codewars.com/users/maxeepy) \
 \
-[![python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org) and a little bit of [![html](https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://html.spec.whatwg.org/) [![css](https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://www.w3.org/TR/CSS/#css) 
+[![python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org) and a little bit of [![html](https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://html.spec.whatwg.org/) [![css](https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://www.w3.org/TR/CSS/#css) \
+i knew these before (lost skill) [![javascript](https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://nodejs.org/en/) [![typescript](https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/) [![ruby](https://img.shields.io/badge/-ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)](https://www.ruby-lang.org/en/)
 
 # Discord bot - 🔗 Link Embedder
 - [![discord](https://img.shields.io/discord/910131051320475648?color=5865F2&label=maxy-devs%20server&logo=discord&logoColor=white)](https://discord.gg/jRK82RNx73)
