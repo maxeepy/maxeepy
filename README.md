@@ -4,7 +4,7 @@
 [![DonationAlerts](https://img.shields.io/badge/Support%20me%20on-DonationAlerts!-yellow)](https://www.donationalerts.com/r/maxy1) \
 \
 [![Steam @maxy](https://img.shields.io/badge/-maxy-171a21?logo=steam&logoColor=white)](https://steamcommunity.com/id/maxy_dev) \
-[![Codewars Badge](https://www.codewars.com/users/maxy-dev/badges/small)](https://www.codewars.com/users/maxy-dev) \
+[![Codewars Badge](https://www.codewars.com/users/maxeepy/badges/small)](https://www.codewars.com/users/maxeepy) \
 \
 [![python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org) and a little bit of [![html](https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://html.spec.whatwg.org/) [![css](https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://www.w3.org/TR/CSS/#css) 
 
