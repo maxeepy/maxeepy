@@ -10,14 +10,14 @@
 i knew these before (lost skill) [![javascript](https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://nodejs.org/en/) [![typescript](https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/) [![ruby](https://img.shields.io/badge/-ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)](https://www.ruby-lang.org/en/)
 
 # Discord bot - 🔗 Link Embedder
-- [![discord](https://img.shields.io/discord/910131051320475648?color=5865F2&label=maxy-devs%20server&logo=discord&logoColor=white)](https://discord.gg/jRK82RNx73)
+- [![discord](https://img.shields.io/discord/910131051320475648?color=5865F2&label=eepy%20devs%20server&logo=discord&logoColor=white)](https://discord.gg/jRK82RNx73)
 - [![le invite](https://img.shields.io/badge/Invite%20it%20to%20your%20server-Link%20Embedder-634ad8?logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1132729065980297296&permissions=536996864&scope=bot%20applications.commands)
 - [![le repo](https://img.shields.io/badge/Github%20repo-Link%20Embedder-blue?logo=github&logoColor=white&labelColor=24282d)](https://github.com/maxy-devs/embedlink)
 
 ![message embed](https://cdn.discordapp.com/attachments/843562496543817781/1135553403385295011/TyvdlNieddSx.gif)
 
 ## Discord bot - 🪶 UltraLite
-- [![discord](https://img.shields.io/discord/910131051320475648?color=5865F2&label=maxy-devs%20server&logo=discord&logoColor=white)](https://discord.gg/jRK82RNx73)
+- [![discord](https://img.shields.io/discord/910131051320475648?color=5865F2&label=eepy%20devs%20server&logo=discord&logoColor=white)](https://discord.gg/jRK82RNx73)
 - [![ul invite](https://img.shields.io/badge/Invite%20it%20to%20your%20server-UltraLite-634ad8?logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1145457595314876568&permissions=275414903888&scope=bot%20applications.commands)
 
 ### 🐍 python bot is 🛑 deprecated 🛑
