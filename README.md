@@ -7,10 +7,13 @@
 [![Codewars Badge](https://www.codewars.com/users/maxeepy/badges/small)](https://www.codewars.com/users/maxeepy) \
 \
 [![python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org) and a little bit of [![html](https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://html.spec.whatwg.org/) [![css](https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://www.w3.org/TR/CSS/#css) \
-i knew these before (lost skill) [![javascript](https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://nodejs.org/en/) [![typescript](https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/) [![ruby](https://img.shields.io/badge/-ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)](https://www.ruby-lang.org/en/) \
-\
-tools i use \
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://static.tildacdn.com/tild3935-3134-4839-a539-393163393938/PyCharm_Logosvg.png" alt="pycharm" height="48px"></a> <a href="https://codeium.com/"><img src="https://codeium.com/logo/codeium_logo.png" alt="codeium" height="48px"></a>
+i knew these before (lost skill) [![javascript](https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://nodejs.org/en/) [![typescript](https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/) [![ruby](https://img.shields.io/badge/-ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)](https://www.ruby-lang.org/en/) 
+
+## tools i use 
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://static.tildacdn.com/tild3935-3134-4839-a539-393163393938/PyCharm_Logosvg.png" alt="pycharm" height="48px"></a> <a href="https://codeium.com/"><img src="https://codeium.com/logo/codeium_logo.png" alt="codeium" height="48px"></a> <a href="https://redis.io/"><img src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" alt="redis database" height="48px"></a> <a href="https://vercel.com/"><img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" alt="vercel" height="48px"></a>
+
+### [![python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org) libraries
+<a><img src="https://guide.disnake.dev/public/disnake-logo.png" alt="disnake" height="48px"></a> and a bit of <a href="https://flask.palletsprojects.com/en/"><img src="https://realvanyek.eu.org/files/img/flask.svg" alt="flask framework" height="48px"></a>
 
 # Discord bot - 🔗 Link Embedder
 - [![discord](https://img.shields.io/discord/910131051320475648?color=5865F2&label=eepy%20devs%20server&logo=discord&logoColor=white)](https://discord.gg/jRK82RNx73)
